@@ -1,0 +1,70 @@
+/* geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* cabeçalho */
+header {
+    background-color: #007b9e;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px 10px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+/* espaçamento*/
+section {
+    background-color: rgb(238, 249, 255);
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* formatação da tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #8bcdff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* rodape */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ddd;
+    font-size: 0.9em;
+}
